@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI4Space 2021</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI4Space 2021</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu92bd0bb8f8d1785c96e7671a51f076c1_178697_512x512_fill_lanczos_center_2.png</url>
+      <title>AI4Space 2021</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Professor Shirley Ho, Flatiron Institute</title>
+      <link>/speakers/shirley/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/speakers/shirley/</guid>
+      <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.simonsfoundation.org/team/shirley-ho/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shirley&lt;/a&gt; is Leader of the Cosmology X Data Science group at the Center for Computational Astrophysics (CCA), Flatiron Institute. Her research interests range from fundamental cosmological measurements to exoplanet statistics to using machine learning to estimate how much dark matter is in the universe. Her goal is to understand the universe’s beginning, evolution and its ultimate fate. Recently she has been developing novel tools using machine learning to solve astrophysical challenges. Shirley plans, builds and analyzes data from a number of astronomical surveys such as Actacama Cosmology Telescope, Euclid, the Large Synoptic Survey Telescope, Simons Observatory, Sloan Digital Sky Survey and the Wide Field Infrared Survey Telescope. She has broad expertise in theory, observation and data science, and her significant experience on machine learning for cosmology will deliver plenty of insights to the CVPR audience.&lt;/p&gt;
+&lt;p&gt;Shirley earned her Ph.D. in astrophysical sciences from Princeton in 2008 and her bachelor’s degrees in computer science and physics from the UC Berkeley in 2004. She was a Chamberlain fellow and a Seaborg fellow at Lawrence Berkeley National Laboratory before joining CMU in 2011 as an assistant professor. She became the Cooper Siegel Career Development Chair Professor and was appointed associate professor with tenure in 2016. She moved to Lawrence Berkeley Lab as a Senior Scientist in 2016. Since 2011, she has been a primary mentor to more than 15 postdoctoral fellows, six graduate students and 14 undergraduates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Courtney Mario, Draper Laboratory</title>
+      <link>/speakers/courtney/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/speakers/courtney/</guid>
+      <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/courtneymario&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Courtney Mario&lt;/a&gt; is a Principal Member of the Technical Staff at The Charles Stark Draper Laboratory (Draper Lab) in the Perception and Autonomy Group. Draper Lab is a not-for-profit R&amp;amp;D organization headquartered in Cambridge, Massachusetts. The lab specializes in the design, development, and deployment of advanced technology solutions to problems in space exploration, health care and energy. She is currently a member of the Natural Feature Tracking team for OSIRIS-REx (NASA’s asteroid sample return mission) and is also leading the algorithm development for Draper’s lunar precision landing capability. Prior work has included developing vision-inertial systems for GPS-denied applications for ground vehicles, UAVs, and pedestrians. Courtney has over 9 years of experience in vision navigation systems for GPS-denied environments, and the lessons she has learnt on the challenges of visual navigation in the space environment will be extremely beneficial to the CVPR community. Courtney earned a Bachelor’s degree (graduated Magna Cum Laude) and Master’s degree in mechanical engineering, both from Tufts University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Dario Izzo, European Space Agency</title>
+      <link>/speakers/dario/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/speakers/dario/</guid>
+      <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.esa.int/gsp/ACT/team/dario_izzo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dario&lt;/a&gt; is the Scientific Coordinator of the Advanced Concepts Team (ACT) at ESA, where he coordinates all the scientific activities of the ACT and manages the interface of the ACT to the rest of ESA. Dario is a major proponent of AI and champion of deep neural networks to solve space problems. He led studies in interplanetary trajectory design using AI and was responsible for starting the Global Trajectory Optimization Competitions events, the ESA’s Summer of Code in Space, and the Kelvins competition platform which brings together AI and space researchers. At the proposed workshop, Dario will be sharing his expertise and experience on AI algorithms for spacecraft guidance dynamics and control.&lt;/p&gt;
+&lt;p&gt;Dario has published more than 150 papers in journals, conferences and books. In 2013, he received the Humies Gold Medal for the work on grand tours of the galilean moons and, the following year, he won the 8th edition of the Global Trajectory Optimization Competition, organized by NASA/JPL, leading a mixed team of ESA/JAXA scientists. Dario graduated in Aeronautical Engineering from the University Sapienza of Rome in 1999. He later obtained a second master in “Satellite Platforms” at the University of Cranfield in the UK and a Ph.D. in Mathematical Modelling in 2003, at the University Sapienza of Rome where he had the honour to assist Prof. Chiara Valente throughout the classical mechanics and space flight mechanics courses during the academic years 2001-2003.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professor Yang Gao, University of Surrey</title>
+      <link>/speakers/yang/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/speakers/yang/</guid>
+      <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.surrey.ac.uk/people/yang-gao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang&lt;/a&gt; is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&amp;amp;D real-world space missions, e.g., ESA&amp;rsquo;s ExoMars, Proba3 and LUCE-ice mapper, UK&amp;rsquo;s MoonLITE/Moonraker, and China&amp;rsquo;s Chang&amp;rsquo;E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience.&lt;/p&gt;
+&lt;p&gt;Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR&amp;rsquo;s Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME&amp;rsquo;s AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tat-Jun Chin (Organizer)</title>
+      <link>/organizers/tj/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/organizers/tj/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Tat-Jun Chin is the Professorial Chair of Sentient Satellites and Director of Machine Learning for Space at The University of Adelaide. His interests include optimisation for vision and learning, robotic vision and space. He has published more than 100 research articles and won several awards for his research, including a CVPR award (2015), a BMVC award (2018), Best of ECCV (2018), two DST Awards (2015, 2017), IAPR Award (2019) and a CVPRW Award (2019). His team won the Satellite Pose Estimation Challenge (2019) organised by the European Space Agency. Major organisational and professional activities of Tat-Jun include Program Chair (ACCV 2022), Special Sessions Chair (ICIP 2023), Tutorial Chair (CVPR 2021, ACCV 2018) and Finance Chair (ICIP 2013). He has played significant roles in workshop and tutorial organisation, most recently at ICRA 2020, RSS 2020, CVPR 2020, ICCV 2019 and CVPR 2018. Tat-Jun also led the organisation of a Shonan Meeting on Optimisation Methods in Geometric Vision (2019).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Luca Carlone (Organizer)</title>
+      <link>/organizers/luca/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/organizers/luca/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Luca Carlone is the Leonardo Career Development Assistant Professor in the Department of Aeronautics and Astronautics at MIT, and a Principal Investigator in the MIT Lab for Information &amp;amp; Decision Systems. He is an expert in the areas of perception, computer vision and nonlinear estimation and their application to autonomous systems. He was recently recognized with the RSS Early Career Award. He has published more than 90 articles in robotics, vision and control. His has won Best Paper Award in Robot Vision at ICRA 2020, IEEE Trans on Robotics Best Paper Award (2017), Best Paper Award at WAFR 2016, the Best Student Paper Award at the 2018 Symposium on VLSI Circuits, and Best Paper Finalist at RSS 2015. Luca has organized workshops and tutorials at robotics and computer vision conferences, and he is one of the organizers of Robotics Today, a virtual seminar series that routinely attracts thousands of attendees worldwide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marius Klimavicius (Organizer)</title>
+      <link>/organizers/marius/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/organizers/marius/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Marius Klimavicius is leading Blackswan Technologies - a startup focusing on bringing autonomous technologies to the space industry. Marius studied space systems engineering at the University of Southampton and has worked at NanoAvionics where he helped to build its first satellite. He has also worked at the robotics section at ESA, where he started developing the idea of using increased autonomy for solving difficult navigation and robotic manipulation tasks in space. The company already has an active contract with ESA to develop its core product - the Mission Design Simulator (MDS) and is rapidly expanding its partner and customer network to develop the rest of its autonomous products. At Blackswan Marius is actively spearheading the development, communication and release of its autonomous products and services while making sure all is aligned with the long term vision - creating the necessary infrastructure for the future space economy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clinton Fookes (Organizer)</title>
+      <link>/organizers/clinton/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/organizers/clinton/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Clinton Fookes is a Professor in Vision &amp;amp; Signal Processing and the SAIVT (Signal Processing, AI and Vision Technologies) group at QUT in Brisbane, Australia. He actively researches computer vision and machine learning and has attracted over $20M of funding from external competitive sources. This includes 10 Australian Category 1 grants funded from the Australian Research Council and the Department of Prime Minister and Cabinet. He is the AI Theme Leader for SmartSat CRC – a $250M initiative to build Australia’s space industry – and is the Chair of the AI4Space Research Network. He serves on the editorial boards for the Pattern Recognition Journal and the IEEE Trans on Information Forensics &amp;amp; Security. He is a Senior Member of the IEEE, an Australian Museum Eureka Prize winner, Engineers Australia Engineering Excellence Award winner, and a Senior Fulbright Scholar. He regularly serves on international committees, including: Area Chairs ICB 2020, ICPR 2020; Publication Chair FG 2019; Local Chair ICB 2018; Competition Chair IJCB 2017; Technical Program Chair DICTA 2016; Exhibits Chair ICASSP 2015.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marcus Märtens (Organizer)</title>
+      <link>/organizers/marcus/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/organizers/marcus/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Marcus Märtens is a research fellow at the Advanced Concepts Team of the European Space Agency. He was part of the winning team of the 8th edition of the Global Trajectory Optimization competition (GTOC) and received a HUMIES gold award for developing algorithms achieving human competitive results in trajectory optimization. At ESA, Marcus has been leading the design of machine learning competitions related to satellite image super-resolution, visual pose estimation and detection of geostationary objects from low-cost equipment. He was Chair and organizer of the ESA Kelvins day, a workshop to discuss the state-of-the-art approaches for space challenges. Recently, he was invited speaker for the Applied Machine Learning Days (AMLD) for the AI &amp;amp; space track. While his main research interests are in AI and evolutionary optimization for space, he has an extensive track record in collaborating with experts from neuroscience, cyber-security and gaming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pablo Gómez (Organizer)</title>
+      <link>/organizers/pablo/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/organizers/pablo/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Pablo Gómez is a research fellow in the Advanced Concepts Team at the European Space Agency, where his interests include semi-supervised learning methods for remote sensing. Prior to joining ESA, he focused on computer vision for medicine, and his dissertation at the University Hospital Erlangen was on image processing methods for high-speed endoscopy. Pablo led a collaboration of seven international institutions to create the first multi-hospital public dataset to benchmark glottis segmentation algorithms, the state-of-the-art technique in quantitative voice diagnostics. He led the Machine Learning Group at Health Hackers Erlangen, and has organized numerous workshops on topics such as object detection neural network architectures. He was the main organizer of the Health Hackers Malaria Challenge, which focused on analysing blood smear images. He has also been active mentor in the ARIADNE TechNat program at Friedrich-Alexander-University supporting gender equality in STEM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bo Chen (Website chair)</title>
+      <link>/organizers/bo/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/organizers/bo/</guid>
+      <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
+&lt;p&gt;Bo Chen is a research fellow in the Australian Institute for Machine Learning (AIML) at The University of Adelaide. His research interest lies in the intersection of computer vision and machine learning with a focus on space-related applications. He led the AIML team to winning 1st place at an international AI competition on Satellite Pose Estimation organized by the European Space Agency (ESA) in 2019. In partnership with ESA&amp;rsquo;s Advanced Concepts Team (ACT), he also co-organized another space-related AI competition, the Kelvin&amp;rsquo;s SpotGEO Challenge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-admin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
