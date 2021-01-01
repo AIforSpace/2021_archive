@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | AI4Space 2021</title>
-    <link>/publication-type/0/</link>
-      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aiforspace.github.io/2021/publication-type/0/</link>
+      <atom:link href="https://aiforspace.github.io/2021/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu92bd0bb8f8d1785c96e7671a51f076c1_178697_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aiforspace.github.io/2021/images/icon_hu92bd0bb8f8d1785c96e7671a51f076c1_178697_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
-      <link>/publication-type/0/</link>
+      <link>https://aiforspace.github.io/2021/publication-type/0/</link>
     </image>
     
     <item>
       <title>Professor Shirley Ho, Flatiron Institute</title>
-      <link>/speakers/shirley/</link>
+      <link>https://aiforspace.github.io/2021/speakers/shirley/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/speakers/shirley/</guid>
+      <guid>https://aiforspace.github.io/2021/speakers/shirley/</guid>
       <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.simonsfoundation.org/team/shirley-ho/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shirley&lt;/a&gt; is Leader of the Cosmology X Data Science group at the Center for Computational Astrophysics (CCA), Flatiron Institute. Her research interests range from fundamental cosmological measurements to exoplanet statistics to using machine learning to estimate how much dark matter is in the universe. Her goal is to understand the universe’s beginning, evolution and its ultimate fate. Recently she has been developing novel tools using machine learning to solve astrophysical challenges. Shirley plans, builds and analyzes data from a number of astronomical surveys such as Actacama Cosmology Telescope, Euclid, the Large Synoptic Survey Telescope, Simons Observatory, Sloan Digital Sky Survey and the Wide Field Infrared Survey Telescope. She has broad expertise in theory, observation and data science, and her significant experience on machine learning for cosmology will deliver plenty of insights to the CVPR audience.&lt;/p&gt;
 &lt;p&gt;Shirley earned her Ph.D. in astrophysical sciences from Princeton in 2008 and her bachelor’s degrees in computer science and physics from the UC Berkeley in 2004. She was a Chamberlain fellow and a Seaborg fellow at Lawrence Berkeley National Laboratory before joining CMU in 2011 as an assistant professor. She became the Cooper Siegel Career Development Chair Professor and was appointed associate professor with tenure in 2016. She moved to Lawrence Berkeley Lab as a Senior Scientist in 2016. Since 2011, she has been a primary mentor to more than 15 postdoctoral fellows, six graduate students and 14 undergraduates.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Dr Courtney Mario, Draper Laboratory</title>
-      <link>/speakers/courtney/</link>
+      <link>https://aiforspace.github.io/2021/speakers/courtney/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/speakers/courtney/</guid>
+      <guid>https://aiforspace.github.io/2021/speakers/courtney/</guid>
       <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/courtneymario&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Courtney Mario&lt;/a&gt; is a Principal Member of the Technical Staff at The Charles Stark Draper Laboratory (Draper Lab) in the Perception and Autonomy Group. Draper Lab is a not-for-profit R&amp;amp;D organization headquartered in Cambridge, Massachusetts. The lab specializes in the design, development, and deployment of advanced technology solutions to problems in space exploration, health care and energy. She is currently a member of the Natural Feature Tracking team for OSIRIS-REx (NASA’s asteroid sample return mission) and is also leading the algorithm development for Draper’s lunar precision landing capability. Prior work has included developing vision-inertial systems for GPS-denied applications for ground vehicles, UAVs, and pedestrians. Courtney has over 9 years of experience in vision navigation systems for GPS-denied environments, and the lessons she has learnt on the challenges of visual navigation in the space environment will be extremely beneficial to the CVPR community. Courtney earned a Bachelor’s degree (graduated Magna Cum Laude) and Master’s degree in mechanical engineering, both from Tufts University.&lt;/p&gt;
 </description>
@@ -35,9 +35,9 @@
     
     <item>
       <title>Dr Dario Izzo, European Space Agency</title>
-      <link>/speakers/dario/</link>
+      <link>https://aiforspace.github.io/2021/speakers/dario/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/speakers/dario/</guid>
+      <guid>https://aiforspace.github.io/2021/speakers/dario/</guid>
       <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.esa.int/gsp/ACT/team/dario_izzo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dario&lt;/a&gt; is the Scientific Coordinator of the Advanced Concepts Team (ACT) at ESA, where he coordinates all the scientific activities of the ACT and manages the interface of the ACT to the rest of ESA. Dario is a major proponent of AI and champion of deep neural networks to solve space problems. He led studies in interplanetary trajectory design using AI and was responsible for starting the Global Trajectory Optimization Competitions events, the ESA’s Summer of Code in Space, and the Kelvins competition platform which brings together AI and space researchers. At the proposed workshop, Dario will be sharing his expertise and experience on AI algorithms for spacecraft guidance dynamics and control.&lt;/p&gt;
 &lt;p&gt;Dario has published more than 150 papers in journals, conferences and books. In 2013, he received the Humies Gold Medal for the work on grand tours of the galilean moons and, the following year, he won the 8th edition of the Global Trajectory Optimization Competition, organized by NASA/JPL, leading a mixed team of ESA/JAXA scientists. Dario graduated in Aeronautical Engineering from the University Sapienza of Rome in 1999. He later obtained a second master in “Satellite Platforms” at the University of Cranfield in the UK and a Ph.D. in Mathematical Modelling in 2003, at the University Sapienza of Rome where he had the honour to assist Prof. Chiara Valente throughout the classical mechanics and space flight mechanics courses during the academic years 2001-2003.&lt;/p&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Professor Yang Gao, University of Surrey</title>
-      <link>/speakers/yang/</link>
+      <link>https://aiforspace.github.io/2021/speakers/yang/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/speakers/yang/</guid>
+      <guid>https://aiforspace.github.io/2021/speakers/yang/</guid>
       <description>&lt;h2 id=&#34;speaker-bio&#34;&gt;Speaker bio:&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.surrey.ac.uk/people/yang-gao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yang&lt;/a&gt; is the Professor of Space Autonomous Systems at Surrey Space Centre (SSC) and the Head of the STAR LAB which specializes in visual sensing and navigation in extreme environments. She has 20 years of research experience in developing robotics and autonomous systems, and has been funded by UK Research Innovation, Royal Academy of Engineering, European Commission, European Space Agency, UK Space Agency, as well as industrial companies such as Airbus, NEPTEC, Sellafield and OHB. Yang is also actively involved in the R&amp;amp;D real-world space missions, e.g., ESA&amp;rsquo;s ExoMars, Proba3 and LUCE-ice mapper, UK&amp;rsquo;s MoonLITE/Moonraker, and China&amp;rsquo;s Chang&amp;rsquo;E 3. Her expertise in solving real-world space visual navigation problems will be of significant interest to the CVPR audience.&lt;/p&gt;
 &lt;p&gt;Yang is an Elected Fellow of Institute of Engineering and Technology (IET) and Royal Aeronautical Society (RAeS). Her research work led to international acclaim, such as International Astronautical Federation’s 3AF Edmond Brun Silver Medal in 2013, COSPAR&amp;rsquo;s Outstanding Paper Award in 2016, First Prize of UKSEDS Lunar Rover Competition in 2017, Finalist of IEEE/ASME&amp;rsquo;s AIM Best Paper Award 2019 and First Prize of Best Poster Award at ICRA 2020 Space Robotics Workshop. Prior to joining SSC in 2004, Yang was an awardee of the prestigious Singapore Millennium Foundation (SMF) Postdoctoral Fellowship and worked on intelligent and autonomous vehicles. She gained the B.Eng. and Ph.D. degrees from the Nanyang Technological University in 2000 and 2003 respectively.&lt;/p&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Tat-Jun Chin (Organizer)</title>
-      <link>/organizers/tj/</link>
+      <link>https://aiforspace.github.io/2021/organizers/tj/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/organizers/tj/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/tj/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Tat-Jun Chin is the Professorial Chair of Sentient Satellites and Director of Machine Learning for Space at The University of Adelaide. His interests include optimisation for vision and learning, robotic vision and space. He has published more than 100 research articles and won several awards for his research, including a CVPR award (2015), a BMVC award (2018), Best of ECCV (2018), two DST Awards (2015, 2017), IAPR Award (2019) and a CVPRW Award (2019). His team won the Satellite Pose Estimation Challenge (2019) organised by the European Space Agency. Major organisational and professional activities of Tat-Jun include Program Chair (ACCV 2022), Special Sessions Chair (ICIP 2023), Tutorial Chair (CVPR 2021, ACCV 2018) and Finance Chair (ICIP 2013). He has played significant roles in workshop and tutorial organisation, most recently at ICRA 2020, RSS 2020, CVPR 2020, ICCV 2019 and CVPR 2018. Tat-Jun also led the organisation of a Shonan Meeting on Optimisation Methods in Geometric Vision (2019).&lt;/p&gt;
 </description>
@@ -67,9 +67,9 @@
     
     <item>
       <title>Luca Carlone (Organizer)</title>
-      <link>/organizers/luca/</link>
+      <link>https://aiforspace.github.io/2021/organizers/luca/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/organizers/luca/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/luca/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Luca Carlone is the Leonardo Career Development Assistant Professor in the Department of Aeronautics and Astronautics at MIT, and a Principal Investigator in the MIT Lab for Information &amp;amp; Decision Systems. He is an expert in the areas of perception, computer vision and nonlinear estimation and their application to autonomous systems. He was recently recognized with the RSS Early Career Award. He has published more than 90 articles in robotics, vision and control. His has won Best Paper Award in Robot Vision at ICRA 2020, IEEE Trans on Robotics Best Paper Award (2017), Best Paper Award at WAFR 2016, the Best Student Paper Award at the 2018 Symposium on VLSI Circuits, and Best Paper Finalist at RSS 2015. Luca has organized workshops and tutorials at robotics and computer vision conferences, and he is one of the organizers of Robotics Today, a virtual seminar series that routinely attracts thousands of attendees worldwide.&lt;/p&gt;
 </description>
@@ -77,9 +77,9 @@
     
     <item>
       <title>Marius Klimavicius (Organizer)</title>
-      <link>/organizers/marius/</link>
+      <link>https://aiforspace.github.io/2021/organizers/marius/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/organizers/marius/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/marius/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Marius Klimavicius is leading Blackswan Technologies - a startup focusing on bringing autonomous technologies to the space industry. Marius studied space systems engineering at the University of Southampton and has worked at NanoAvionics where he helped to build its first satellite. He has also worked at the robotics section at ESA, where he started developing the idea of using increased autonomy for solving difficult navigation and robotic manipulation tasks in space. The company already has an active contract with ESA to develop its core product - the Mission Design Simulator (MDS) and is rapidly expanding its partner and customer network to develop the rest of its autonomous products. At Blackswan Marius is actively spearheading the development, communication and release of its autonomous products and services while making sure all is aligned with the long term vision - creating the necessary infrastructure for the future space economy.&lt;/p&gt;
 </description>
@@ -87,9 +87,9 @@
     
     <item>
       <title>Clinton Fookes (Organizer)</title>
-      <link>/organizers/clinton/</link>
+      <link>https://aiforspace.github.io/2021/organizers/clinton/</link>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/organizers/clinton/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/clinton/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Clinton Fookes is a Professor in Vision &amp;amp; Signal Processing and the SAIVT (Signal Processing, AI and Vision Technologies) group at QUT in Brisbane, Australia. He actively researches computer vision and machine learning and has attracted over $20M of funding from external competitive sources. This includes 10 Australian Category 1 grants funded from the Australian Research Council and the Department of Prime Minister and Cabinet. He is the AI Theme Leader for SmartSat CRC – a $250M initiative to build Australia’s space industry – and is the Chair of the AI4Space Research Network. He serves on the editorial boards for the Pattern Recognition Journal and the IEEE Trans on Information Forensics &amp;amp; Security. He is a Senior Member of the IEEE, an Australian Museum Eureka Prize winner, Engineers Australia Engineering Excellence Award winner, and a Senior Fulbright Scholar. He regularly serves on international committees, including: Area Chairs ICB 2020, ICPR 2020; Publication Chair FG 2019; Local Chair ICB 2018; Competition Chair IJCB 2017; Technical Program Chair DICTA 2016; Exhibits Chair ICASSP 2015.&lt;/p&gt;
 </description>
@@ -97,9 +97,9 @@
     
     <item>
       <title>Marcus Märtens (Organizer)</title>
-      <link>/organizers/marcus/</link>
+      <link>https://aiforspace.github.io/2021/organizers/marcus/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/organizers/marcus/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/marcus/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Marcus Märtens is a research fellow at the Advanced Concepts Team of the European Space Agency. He was part of the winning team of the 8th edition of the Global Trajectory Optimization competition (GTOC) and received a HUMIES gold award for developing algorithms achieving human competitive results in trajectory optimization. At ESA, Marcus has been leading the design of machine learning competitions related to satellite image super-resolution, visual pose estimation and detection of geostationary objects from low-cost equipment. He was Chair and organizer of the ESA Kelvins day, a workshop to discuss the state-of-the-art approaches for space challenges. Recently, he was invited speaker for the Applied Machine Learning Days (AMLD) for the AI &amp;amp; space track. While his main research interests are in AI and evolutionary optimization for space, he has an extensive track record in collaborating with experts from neuroscience, cyber-security and gaming.&lt;/p&gt;
 </description>
@@ -107,9 +107,9 @@
     
     <item>
       <title>Pablo Gómez (Organizer)</title>
-      <link>/organizers/pablo/</link>
+      <link>https://aiforspace.github.io/2021/organizers/pablo/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/organizers/pablo/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/pablo/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Pablo Gómez is a research fellow in the Advanced Concepts Team at the European Space Agency, where his interests include semi-supervised learning methods for remote sensing. Prior to joining ESA, he focused on computer vision for medicine, and his dissertation at the University Hospital Erlangen was on image processing methods for high-speed endoscopy. Pablo led a collaboration of seven international institutions to create the first multi-hospital public dataset to benchmark glottis segmentation algorithms, the state-of-the-art technique in quantitative voice diagnostics. He led the Machine Learning Group at Health Hackers Erlangen, and has organized numerous workshops on topics such as object detection neural network architectures. He was the main organizer of the Health Hackers Malaria Challenge, which focused on analysing blood smear images. He has also been active mentor in the ARIADNE TechNat program at Friedrich-Alexander-University supporting gender equality in STEM.&lt;/p&gt;
 </description>
@@ -117,9 +117,9 @@
     
     <item>
       <title>Bo Chen (Website chair)</title>
-      <link>/organizers/bo/</link>
+      <link>https://aiforspace.github.io/2021/organizers/bo/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/organizers/bo/</guid>
+      <guid>https://aiforspace.github.io/2021/organizers/bo/</guid>
       <description>&lt;h2 id=&#34;organizer-bio&#34;&gt;Organizer bio:&lt;/h2&gt;
 &lt;p&gt;Bo Chen is a research fellow in the Australian Institute for Machine Learning (AIML) at The University of Adelaide. His research interest lies in the intersection of computer vision and machine learning with a focus on space-related applications. He led the AIML team to winning 1st place at an international AI competition on Satellite Pose Estimation organized by the European Space Agency (ESA) in 2019. In partnership with ESA&amp;rsquo;s Advanced Concepts Team (ACT), he also co-organized another space-related AI competition, the Kelvin&amp;rsquo;s SpotGEO Challenge.&lt;/p&gt;
 </description>

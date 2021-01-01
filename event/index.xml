@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | AI4Space 2021</title>
-    <link>/event/</link>
-      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aiforspace.github.io/2021/event/</link>
+      <atom:link href="https://aiforspace.github.io/2021/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu92bd0bb8f8d1785c96e7671a51f076c1_178697_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aiforspace.github.io/2021/images/icon_hu92bd0bb8f8d1785c96e7671a51f076c1_178697_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/event/</link>
+      <link>https://aiforspace.github.io/2021/event/</link>
     </image>
     
   </channel>
